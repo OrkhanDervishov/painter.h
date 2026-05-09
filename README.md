@@ -1,0 +1,1 @@
+# A simple painting library for C
